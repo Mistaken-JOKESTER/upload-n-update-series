@@ -1,0 +1,4 @@
+boto3
+ssh_pymongo
+tqdm
+simple_chalk
